@@ -1,2 +1,2 @@
 # C-Project-Inventory-System
-Inventory system created for class project.
+Inventory system created for a class project written in C.
